@@ -10,7 +10,15 @@ description: I think of my PhD jounery as the one that Cinderella once took, and
 
   
 # social links
-twitter_username: Skylar13Chen # DO NOT include the @ character, or else the build will fail!
-github_username: xc308 # DO NOT include the @ character, or else the build will fail!
+social-network-links:
+  twitter: Skylar13Chen # DO NOT include the @ character, or else the build will fail!
+  github: xc308 # DO NOT include the @ character, or else the build will fail!
+  
+show_excerpts:true # set to false to remove excerpts on the homepage
+  
+share-links-active:
+  twitter: true
+  github: true
+  
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+  
