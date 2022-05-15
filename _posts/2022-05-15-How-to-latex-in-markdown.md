@@ -28,10 +28,21 @@ Ref2: https://stackoverflow.com/questions/26275645/how-to-support-latex-in-githu
       }
     });
   </script>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script> 
 
 
 Now have a try:
 
 $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$
+
+*Comment: does not show math symbol, and also make the pages look ugly, so I change the src address.*
+* 
+
+
+
+
+
+
+
+
 
