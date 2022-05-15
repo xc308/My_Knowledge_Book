@@ -49,6 +49,12 @@ Ref: https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github
 * made a folder _includes within my _posts folder
 * populated it with a file head.html containing the script above
 * in the top line of the post below the YAML front matter (i.e. below the second --- line) put the code {% include_relative _includes/head.html %}
+* use new scr address src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" or src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML"
+
+*Comment: this method finally worked!
+👍
+
+#### Now I can pose pages with complicated Maths!
 
 
 
