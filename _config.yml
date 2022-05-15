@@ -5,6 +5,9 @@ theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This My knowledge book has 2 series, one is “What is…?” and the other is “Why is…?”
   It records the genuine curiosities of mine that arise during my beautiful PhD journey…
+  
+  ![My PhD journey](/assets/Cinderella.png)
+  
 
 # social links
 twitter_username: Skylar13Chen # DO NOT include the @ character, or else the build will fail!
