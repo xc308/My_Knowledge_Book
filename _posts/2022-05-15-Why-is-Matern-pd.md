@@ -9,5 +9,3 @@ date: 2022-05-15
 * Bochner Theorem
 * Ornstein–Uhlenbeck processU
 
-
-$\sum_{i=1}^m y^{(i)}$
