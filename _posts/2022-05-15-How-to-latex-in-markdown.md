@@ -36,7 +36,10 @@ Now have a try:
 $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$
 
 *Comment: does not show math symbol, and also make the pages look ugly, so I change the src address.*
-* 
+* So now I have deleted the head.html file, and check the page, it amazingly displays the math, but the refresh of the webpage seems to be a bit slow. I need to try more
+
+
+$\sum_{i=1}^m y^{(i)}$
 
 
 
