@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to type latex in markdown?"
+title: "How to type latex Maths in the .md file for Pages' posts?"
 date: 2022-05-15
 ---
 
@@ -43,7 +43,7 @@ $\sum_{i=1}^m y^{(i)}$
 
 
 
-## Method 3
+## Method 3 (success!)
 Ref: https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
 
 * made a folder _includes within my _posts folder
