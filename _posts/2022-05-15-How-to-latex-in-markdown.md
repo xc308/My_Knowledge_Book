@@ -43,6 +43,13 @@ $\sum_{i=1}^m y^{(i)}$
 
 
 
+## Method 3
+Ref: https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
+
+* made a folder _includes within my _posts folder
+* populated it with a file head.html containing the script above
+* in the top line of the post below the YAML front matter (i.e. below the second --- line) put the code {% include_relative _includes/head.html %}
+
 
 
 
