@@ -1,11 +1,15 @@
-title: My Knowledge Book
+---
+title: "My Knowledge Book"
 author: Xiaoqing Chen
 email: xchen@turing.ac.uk; xc308@exeter.ac.uk; moonchenstar@icloud.com
 theme: minima
+date: 2022-05-15
 description: > # this means to ignore newlines until "baseurl:"
   This My knowledge book has 2 series, one is “What is…?” and the other is “Why is…?”
   It records the genuine curiosities of mine that arise during my beautiful PhD journey…
-  
+---
+
+I think of my PhD jounery as the one that Cinderella once took, and the real magic lies and only lies in Cinderella herself.
   ![My PhD journey](/assets/Cinderella.png)
   
 
