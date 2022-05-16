@@ -4,6 +4,7 @@ title: "What is inertia of a Hermitian matrix?"
 date: 2022-05-16
 ---
 {% include_relative _includes/head.html %}
+Ref: _Matrix Analysis (2nd) Horn P281-282_
 
 ### Def: 
 - Let $A \in M_n$  be Hermitian
