@@ -5,7 +5,7 @@ date: 2022-05-21
 ---
 {% include_relative _includes/head.html %} 
 
-Ref: *L. Mark Berline Statistics, Probability and Chaos*
+Ref: *L. Mark Berline, Statistics, Probability and Chaos*
 
 *Declear: The copy right and property right all belong to the original author of the paper. Below is just simple copy from the paper and a reading record and note.*
 
