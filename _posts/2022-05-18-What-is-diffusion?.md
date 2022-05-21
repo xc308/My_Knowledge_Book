@@ -3,6 +3,8 @@ layout: post
 title: "What is diffusion?"
 date: 2022-05-18
 ---
+{% include_relative _includes/head.html %} 
+
 
 In Cressie's conditional approach, he mentioned his tent function as 
 
