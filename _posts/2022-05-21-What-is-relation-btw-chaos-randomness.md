@@ -72,7 +72,7 @@ Ref: *L. Mark Berline, Statistics, Probability and Chaos*
   * then $1/n \sum_{i = 1} ^n Y(f^i (x_0)) \rightarrow E_P(Y) a.s.(P)$ as $n \rightarrow \inf$
   
 - A most intimate relationship between ergodic theory, chaos and randomness
-  * Under the assumptions of the ergodic theorem, if the initial condition xo is generated according to P, the sequence ${Y(f^{i}(x_o)) = Yi(x_o), i > 0}$ is a stationary stochastic process.
+  * Under the assumptions of the ergodic theorem, if the initial condition xo is generated according to P, the sequence $\{Y(f^{i}(x_o)) = Yi(x_o), i > 0\}$ is a stationary stochastic process.
   * Thus, if we choose Y to be the identity transformation, Y(x) = x, the deterministic dynamical system with initial condition somehow chosen, with care to avoid sets of P-measure zero, is a realization of a stochastic process. 
 
 
