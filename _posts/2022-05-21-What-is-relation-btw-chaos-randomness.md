@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is the relation between deterministic chaos and randomness?"
+title: "What is the relation between deterministic system, chaos, and randomness?"
 date: 2022-05-21
 ---
 {% include_relative _includes/head.html %} 
