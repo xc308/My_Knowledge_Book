@@ -64,7 +64,7 @@ of X and defning Y as a random variable taking as values the conditional means o
   - lemma relates the MSE of a self-consistent Y for X in terms of their respective covariance matrices
     * Denote $\Psi_X, \Psi_Y$ as convariance matrices as vector X and vector Y
     * Lemma 2.3 If Y is self-consistent for X, then the following hold:
-    * (1) $\Psi_X \geq \Psi_Y$, $\Psi_X - Psi_Y$ is p.s.d
+    * (1) $\Psi_X \geq \Psi_Y$, $\Psi_X - \Psi_Y$ is p.s.d
     * (2) $ MSE(Y; X) = tr(\Psi_X) - tr(\Psi_Y)$
     * Follows from the lemma 2.3. $cov(Y) = cov(X)$ exactly if $cov(X \mid Y) = 0 a.s. i.e. Y = X a.s.$
     * For 1-D random variable X, Y, if Y is self-consistent for X, then $var[Y] \leq var[X]$, with equality exactly if $Y = X a.s.$
