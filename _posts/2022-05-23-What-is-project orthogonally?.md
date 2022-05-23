@@ -3,7 +3,7 @@ layout: post
 title: "What is self-consistent vectors?"
 date: 2022-05-23
 ---
-{include }
+{% include_relative _includes/head.html %}
 
 *Ref: Thaddeus Tarpey and Bernard Flury (1996) Self-Consistency: A Fundamental Concept in Statistics*
 *Declear: This post is just an reading notes recording some of the useful information. The copy right and property right all belong to the original author.*
