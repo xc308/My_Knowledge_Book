@@ -3,7 +3,7 @@ layout: post
 title: "What is Max-stable Process?"
 date: 2022-05-25
 ---
-{%include _includes/head.html%}
+{% include_relative _includes/head.html %}
 
 Ref: https://spatialextremes.r-forge.r-project.org/index.php?module=pages&action=maxstable
 
