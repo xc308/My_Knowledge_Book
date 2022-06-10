@@ -3,7 +3,8 @@ Title: "What are the conferences that can publish papers?"
 Date: 2022-06-09
 type: post
 ---
-{%include _includes/head.html%}
+{% include_relative _includes/head.html %}
+
 
 ## Resource 1: International Conference on Machine Learning (ICML)
 
