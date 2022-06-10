@@ -1,7 +1,7 @@
 ---
+layout: post
 Title: "What are the conferences that can publish papers?"
 Date: 2022-06-09
-type: post
 ---
 {% include_relative _includes/head.html %}
 
