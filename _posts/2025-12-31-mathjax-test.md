@@ -14,9 +14,9 @@ $\[
 
 
 <div style="line-height: 1.8; font-size: 18px; font-family: Georgia, serif;">
-This section will be larger and more spaced. <br><br>
+This section will be larger and more spaced. <br>
 
-Inline: $ e^{i\pi}+1=0 $ <br><br>
+Inline: $ e^{i\pi}+1=0 $ <br>
 
 Display:
 $$
