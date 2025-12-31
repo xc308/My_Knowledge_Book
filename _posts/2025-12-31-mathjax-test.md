@@ -2,6 +2,7 @@
 layout: post
 title: "MathJax test"
 math: true
+date: 2025-12-31
 ---
 
 Inline: \( e^{i\pi}+1=0 \)
