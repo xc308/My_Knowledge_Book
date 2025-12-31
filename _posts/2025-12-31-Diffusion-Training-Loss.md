@@ -24,5 +24,11 @@ The answer lies in the KL-divergence ($D_{KL}$) between the ground truth $q$ and
 $$
 D_{KL}(q \lVert p) = \int q(x) log^{\frac{q(x)}{p(x)}} dx 
                   = \int q(x)log^{q(x)} dx - \int q(x) log^{p(x)} dx
-
 $$
+
+The first part $\int q(x)log^{q(x)} dx$ is a negative entropy $-H_q(x)$ of the ground truth, which is a constant. 
+
+Therefore, to minimise the $D_{KL}(q \lVert p)$ is equivalent to minimise the second part $- \int q(x) log^{p(x)} dx$, which is the same as maximise $\int q(x) log^{p(x)} dx$, a weighted average. 
+
+
+
