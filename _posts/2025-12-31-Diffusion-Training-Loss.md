@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why is the diffusion model's training loss in the form of a weighted average?"
+title: "Why is the generative model in the form of a weighted average?"
 math: true
 date: 2025-12-31
 ---
@@ -11,13 +11,13 @@ $$
 p(x^{(0)}) = \int dx^{(1, \ldots, T)} p(x^{(0, \ldots, T)})
 $$
 
-Our goal is to maximise the training loss $L$, where 
+Our goal is to maximise the $L$, where 
 
 $$
 L = \int dx^{(0)} q(x^{(0)}) log^{ p(x^{(0)})}.
 $$
 
-**But why does the training loss $L$ have this weighted average form, where the log of the model prediction $p(x^{(0)})$ is weighted by ground truth $q(x^{(0)})$, for all possible clean image $x^{(0)}$?**
+**But why does $L$ have this weighted average form, where the log of the model prediction $p(x^{(0)})$ is weighted by ground truth $q(x^{(0)})$, for all possible clean image $x^{(0)}$?**
 
 The answer lies in the KL-divergence ($D_{KL}$) between the ground truth $q$ and model prediction $p$, i.e., $D_{KL}(q \lVert p)$.  
 
@@ -30,7 +30,7 @@ The first part $\int q(x)log^{q(x)} dx$ is a negative entropy $-H_q(x)$ of the g
 
 Therefore, to minimise the $D_{KL}(q \lVert p)$ is equivalent to minimising the second part $- \int q(x) log^{p(x)} dx$, which is the same as maximising $\int q(x) log^{p(x)} dx$, a ground truth q-weighted average of $log^{q(x)}$. 
 
-Hence the form of the training loss $L$. 
+Hence, the form of the $L$. 
 
 
 
