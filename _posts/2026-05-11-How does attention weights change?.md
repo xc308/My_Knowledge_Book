@@ -10,7 +10,8 @@ The attention weights lie at the core of the Transformer architecture. They deci
 The following figures reveal empirically that 
 
 - The attention weights change from layer to layer
-- Some layers emphasise accounting for the grammar accuracy, e.g., layer 3, while others emphasise the meaning, e.g., 14, 19
+- Some layers emphasise accounting for the grammar accuracy, e.g., layer 3,
+- while others emphasise the meaning, e.g., 14, 19
 
 
 ![Attention weights for layer 0 and layer 1](https://raw.githubusercontent.com/xc308/What-Why-and-How-Generative-AI-Blogs/main/assets/0-1.png)
