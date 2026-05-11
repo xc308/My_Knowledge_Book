@@ -8,7 +8,7 @@ date: 2026-05-11
 The attention weights lie at the core of the Transformer architecture. They decide what would be predicted for the next token. While the Mathematical formula is neat, the corresponding change of the attention weights across different layers and different heads of the Transformer is not self-evident in the mathematical formula. 
 
 
-![Attention weights for layer 0 and layer 1]({{ site.baseurl }}/assets/0-1.png)
+![Attention weights for layer 0 and layer 1](https://raw.githubusercontent.com/xc308/What-Why-and-How-Generative-AI-Blogs/main/assets/0-1.png)
 ![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/2-3.png)
 ![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/4-5.png)
 ![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/6-7.png)
