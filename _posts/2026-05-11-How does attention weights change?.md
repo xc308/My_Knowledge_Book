@@ -5,7 +5,12 @@ math: true
 date: 2026-05-11
 ---
 
-The attention weights lie at the core of the Transformer architecture. They decide what would be predicted for the next token. While the Mathematical formula is neat, the corresponding change of the attention weights across different layers and different heads of the Transformer is not self-evident in the mathematical formula. 
+The attention weights lie at the core of the Transformer architecture. They decide what to predict for the next token. While the Mathematical formula is neat, the corresponding change of the attention weights across different layers and different heads of the Transformer is not self-evident in the mathematical formula. 
+
+The following figures reveal empirically that 
+
+- The attention weights change from layer to layer
+- Some layers emphasise accounting for the grammar accuracy, e.g., layer 3, while others emphasise the meaning, e.g., 14, 19
 
 
 ![Attention weights for layer 0 and layer 1](https://raw.githubusercontent.com/xc308/What-Why-and-How-Generative-AI-Blogs/main/assets/0-1.png)
