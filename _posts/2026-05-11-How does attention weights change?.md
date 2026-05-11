@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to derive the Evidence Lower Bound (ELBO) for the variational diffusion model?"
+title: How does attention weights change?"
 math: true
 date: 2026-05-11
 ---
