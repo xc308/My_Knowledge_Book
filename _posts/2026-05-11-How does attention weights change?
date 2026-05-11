@@ -1,1 +1,7 @@
 
+---
+layout: post
+title: "How to derive the Evidence Lower Bound (ELBO) for the variational diffusion model?"
+math: true
+date: 2026-05-11
+---
