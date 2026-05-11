@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How does attention weights change?"
+title: How does attention weights change?
 math: true
 date: 2026-05-11
 ---
