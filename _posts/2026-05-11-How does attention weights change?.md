@@ -29,5 +29,6 @@ The following figures reveal empirically that
 ![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/24-25.png)
 
 
+At a particular layer, e.g., layer 19, different heads attend to different parts:
 
 
