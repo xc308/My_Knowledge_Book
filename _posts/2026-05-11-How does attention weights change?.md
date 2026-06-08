@@ -31,5 +31,11 @@ The following figures reveal empirically that
 
 ## At a particular layer, e.g., layer 19, different heads attend to different parts and have different functions: ##
 ![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/L19-H0.png)
+![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/L19-H1.png)
+![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/L19-H2.png)
+![Alt text describing the figure](/What-Why-and-How-Generative-AI-Blogs/assets/L19-H3.png)
+
+
+
 
 
