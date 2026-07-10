@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why is the generative model in the form of a weighted average?"
+title: "Why is the diffusion loss in the form of a weighted average?"
 math: true
 date: 2025-12-31
 ---
